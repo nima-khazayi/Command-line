@@ -19,7 +19,7 @@ pip install pyfiglet
 You can run the script in two ways:
 
 1. **Interactive Mode:** Simply run the script without any arguments to input text interactively.
-   ```python figlet.py```
+    ```python figlet.py```
 2. **Command Line Mode:** You can specify a font using command-line arguments.
    
    ```bash
